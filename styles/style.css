@@ -261,6 +261,7 @@ button:focus-visible {
   display: block;
   text-decoration: none;
   color: inherit;
+  margin:1px;
 }
 
 .content__card-link_current {
@@ -326,4 +327,7 @@ li:not(:last-child) {
 
 .more-button {
   width: 100%;
+  
+    background-color: transparent;
+
 }
