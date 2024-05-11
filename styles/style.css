@@ -220,6 +220,10 @@ button:focus-visible {
   gap: 26px;
 }
 
+.search-form__submit-button {
+  align-self: end;
+}
+
 .title {
   color: inherit;
   font-family: "Oswald","Arial", sans-serif;
